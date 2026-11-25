@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-or-later -->
+<resources>
+    <string name="app_name">Power button intercept</string>
+    <string name="module_description">While a call is ringing on ColorOS, the first power button press still silences the ringer. The second press moves the call to the notifications and turns the screen off instead of rejecting the call. Scope: System Framework. Takes effect after a reboot.</string>
+</resources>
